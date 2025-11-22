@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ntokozokate
 - 👀 I’m interested in making cool designs, leaening as much as I can.
-- 🌱 I’m currently learning HTML, CSS and Java Script.
+- 🌱 I’m currently doing backend development with node.js.
 - 💞️ I’m looking to collaborate on some Java Script projects for experience.
 - 📫 How to reach me mangenakate@gmail.com
 - 😄 Pronouns: Her, She
