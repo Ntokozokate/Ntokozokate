@@ -9,12 +9,13 @@
 ---
 
 # 🚀 Road to Becoming a **Backend & DevOps Engineer**
-
+<>
 Tracking my journey, staying accountable, and improving one step at a time.
 
 ---
 
 # 🧠 **Skills Completed**  
+<summary>🧠 Skills Completed</summary>
 ### *(as of 11 December 2025)*
 
 ---
