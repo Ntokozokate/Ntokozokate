@@ -46,26 +46,30 @@ Tracking my journey, staying accountable, and improving one step at a time.
 
 ## 📘 **Learning Now**
 - ⚡ Advanced Node.js + Express.js  
-- 🔑 JWT Authentication (access + refresh tokens)  
+- 🔑 JWT Authentication (access + refresh tokens)
 - 🧩 MongoDB schemas and data modeling  
 - 📡 Building scalable backend APIs  
 - 🛠 Debugging, refactoring & writing cleaner logic  
-- 🖼 React + Tailwind personal projects  
+- 🖼 React + Tailwind personal projects
+- - 📨 **Message Queues** (Redis Queue, RabbitMQ, Kafka basics)  
+- 🗃️ **SQL fundamentals** (PostgreSQL or MySQL basics)  
+- 🧱 **System Design basics** (load balancing, caching, rate limiting, scalability)
 
 ---
 
 # 🌍 **Upcoming Skills**  
-### *(DevOps & Cloud Engineering Path)*
-
-- 🐳 Docker fundamentals  
-- ☸️ Kubernetes basics  
-- ☁️ AWS (IAM, EC2, S3, Lambda, CloudWatch)  
-- 🔁 CI/CD pipelines with GitHub Actions  
-- 🐧 Linux server management  
-- 🔥 Nginx basics  
-- 🏗 Terraform fundamentals  
-- 🐹 Golang basics for cloud backend engineering  
-
+### *(DevOp Engineering Path)*
+### *( March 2026-August 2026)*
+- 🐧 Linux fundamentals & bash scripting
+-🐳 Docker fundamentals
+-🔁 CI/CD pipelines (GitHub Actions)
+-☸️ Kubernetes basics
+-☁️ Cloud fundamentals (AWS core services)
+-🧱 Infrastructure as Code (Terraform)
+-⚙️ Configuration management (Ansible)
+-📊 Monitoring & logging (Prometheus, Grafana)
+-🔐 DevOps security basics (IAM, secrets management)
+-🚀 GitOps introduction (ArgoCD)
 ---
 
 <!---
