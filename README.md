@@ -19,6 +19,7 @@ Tracking my journey, staying accountable, and improving one step at a time.
 ### *(as of 11 December 2025)*
 
 ---
+<details>
 
 ## 🎨 **Frontend Development** — *Completed* ✅  
 - 🎯 HTML, CSS, JavaScript (ES6+)  
@@ -38,8 +39,9 @@ Tracking my journey, staying accountable, and improving one step at a time.
 - 🌐 REST API development  
 - 🔐 Authentication fundamentals (JWT, Middleware)  
 - 🗄️ MongoDB basics  
-- ☁️ File uploads (Cloudinary + Multer)  
-
+- ☁️ File uploads (Cloudinary + Multer)
+- 
+</details>
 ---
 
 # 🎯 **Main Focus**  
@@ -62,15 +64,15 @@ Tracking my journey, staying accountable, and improving one step at a time.
 ### *(DevOp Engineering Path)*
 ### *( March 2026-August 2026)*
 - 🐧 Linux fundamentals & bash scripting
--🐳 Docker fundamentals
--🔁 CI/CD pipelines (GitHub Actions)
--☸️ Kubernetes basics
--☁️ Cloud fundamentals (AWS core services)
--🧱 Infrastructure as Code (Terraform)
--⚙️ Configuration management (Ansible)
--📊 Monitoring & logging (Prometheus, Grafana)
--🔐 DevOps security basics (IAM, secrets management)
--🚀 GitOps introduction (ArgoCD)
+- 🐳 Docker fundamentals
+- 🔁 CI/CD pipelines (GitHub Actions)
+- ☸️ Kubernetes basics
+- ☁️ Cloud fundamentals (AWS core services)
+- 🧱 Infrastructure as Code (Terraform)
+- ⚙️ Configuration management (Ansible)
+- 📊 Monitoring & logging (Prometheus, Grafana)
+- 🔐 DevOps security basics (IAM, secrets management)
+- 🚀 GitOps introduction (ArgoCD)
 ---
 
 <!---
